@@ -1,4 +1,4 @@
-# Python Notepad (个人记账本)
+# Python accountBook (个人记账本)
 
 我的第一个 Python 项目，实现命令行记账功能。
 
